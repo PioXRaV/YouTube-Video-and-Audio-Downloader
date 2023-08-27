@@ -1,6 +1,6 @@
-# YouTube-Video-Downloader
+# YouTube Video/Audio Downloader
 
-Shows and downloads the options of the video in the YouTube URL you entered.
+Download any video as video or audio with YouTube video URL.
 
 ### Required modules
 
